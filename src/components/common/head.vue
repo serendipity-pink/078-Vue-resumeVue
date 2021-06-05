@@ -1,7 +1,7 @@
 <template>
   <div class="head">
     <p class="last-modified">最后更新于2020年3月</p>
-    <a class="download-pdf" href="../../../static/MyResume.pdf">下载 PDF</a>
+    <a class="download-pdf" href="../../../static/My-Resume.pdf">下载 PDF</a>
   </div>
 </template>
 
